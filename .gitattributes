@@ -1,0 +1,2 @@
+battery_rul_model.pkl filter=lfs diff=lfs merge=lfs -text
+Battery_RUL.csv filter=lfs diff=lfs merge=lfs -text
